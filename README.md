@@ -1,7 +1,7 @@
 ### Olá Eu sou o Marcelo Moreira de Oliveira
 
-- 🔭 Atualmente trabalho como Desgin, mas quero mudar para minha área.
-- 🌱 Estudando Typescript e PHP.
+- 🔭 Atualmente trabalho como Dev frontEnd freelancer, para uma empresa em outro estado.
+- 🌱 Estudando Typescript e Angular.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
