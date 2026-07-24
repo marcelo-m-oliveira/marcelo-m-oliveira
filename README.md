@@ -1,33 +1,46 @@
-### Olá Eu sou o Marcelo Moreira de Oliveira
+# Marcelo Oliveira
 
-- 🔭 Atualmente trabalho como Dev frontEnd freelancer, para uma empresa em outro estado.
-- 🌱 Estudando Typescript e Angular.
-- 😄 Pronouns: ele/dele
+**Tech Lead & Software Engineer**
 
-<div align="center">
-  <a href="https://github.com/marcelo-mo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-mo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-mo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Celo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Celo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Celo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Celo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Celo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
-  <img align="center" alt="Celo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Celo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-  
-  ##
-  
-  <div><br>
-    <a href="https://www.linkedin.com/in/marcelo-moreira-de-oliveira-0a8b2b175" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://www.instagram.com/marcelo_moreira__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:marcelomra.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Lidero times e construo produtos SaaS de ponta a ponta, conectando decisões técnicas,
+arquitetura e entrega de valor. Trabalho principalmente com Go e TypeScript em sistemas
+distribuídos, aplicações web modernas e plataformas multi-tenant.
 
-   ![Snake animation](https://github.com/marcelo-mo/marcelo-mo/blob/output/github-contribution-grid-snake.svg)
+_I lead engineering teams and build end-to-end SaaS products, connecting technical
+decisions, architecture, and product delivery._
 
-  </div>
- 
+## Atuação
+
+- Liderança técnica, mentoria e evolução de práticas de engenharia
+- Arquitetura de APIs, microsserviços e aplicações multi-tenant
+- Frontend moderno com React e Next.js
+- Autenticação, autorização e integrações entre serviços
+- Qualidade por meio de testes automatizados, revisão de código e observabilidade
+- Aplicação pragmática de IA em produtos e no ciclo de desenvolvimento
+
+## Stack principal
+
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![Keycloak](https://img.shields.io/badge/Keycloak-111827?style=flat-square&logo=keycloak&logoColor=4D4D4D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+## Em desenvolvimento
+
+### Lumia Church
+
+Plataforma SaaS para gestão eclesiástica com arquitetura multi-tenant, hierarquia entre
+organizações, controle de acesso granular e serviços independentes em Go.
+
+### Quaint Money
+
+Plataforma de gestão financeira construída com foco em segurança, clareza operacional e
+uma experiência web moderna.
+
+## Contato profissional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-moreira-de-oliveira-0a8b2b175/)
